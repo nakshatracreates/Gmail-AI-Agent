@@ -36,4 +36,3 @@ def send_email(to:str,subject:str,body:str):
 
     return result
 
-#send_email("nakshatrapande7@gmail.com","Meeting Update","The meeting is postponed to 5 PM")
